@@ -42,13 +42,13 @@ def run_sql_query_and_send_message():
 def send_telegram_message(message):
     
     token = "TOKEN_BOT_TELEGERAM"
-    #chat_id = "239082367"
+    #chat_id = "23908000"
     chat_id = [
-         '1433.426386', 
-         '239082367', 
-         '5777.620081',
-         '20554.12595',
-         '98424.1102'
+         '1430.420000', 
+         '239080000', 
+         '5770.620000',
+         '20500.10000',
+         '98400.1000'
      ]
     for cid in chat_id:
         print(cid)
